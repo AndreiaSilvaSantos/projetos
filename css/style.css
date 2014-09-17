@@ -1,0 +1,10 @@
+@charset "utf-8";
+/* CSS Document */
+
+div.border-bottom{ border-bottom:4px solid #4E6E0B; color:#4E6E0B; padding-top:210px;}
+h1.vermelho{color:#C42127;}
+h1.azul{color:#26688F;}
+
+div.container{max-width:940px;}
+div.rodape{background-color:#DBDCD9;border-top:10px solid #DB3D36;max-width:100%;margin:auto;}
+div.cabecalho{background-color:#DBDCD9;}

@@ -1,0 +1,291 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	background-color:#FFF;
+	overflow-x: hidden;
+	overflow-y: scroll; 
+}
+
+ .amarelo  {
+ 	background-color: rgb(255, 243, 71);
+ 	width: 100%;
+ }
+
+  .amarelo1  {color: rgb(255, 243, 71)
+ }
+ .roxo  {background-color: rgb(60, 90, 152)
+ }
+ .azul  {background-color: rgb(0, 173, 236)
+ }
+ .verde {background-color: rgb(2, 178, 140)
+ }
+  .figura {padding-top:4px;
+  padding-bottom:4px;
+ }
+ .cinza{background-color:#E5E4E5}
+ .branco {color:#ffffff}
+ .brancoicon{
+ 	background-color: #ffffff
+ }
+ .margembuscar{
+ 	margin-bottom: 30px;
+ }
+  .orange {color: rgb(240, 130, 60)}
+ .laranja {background-color: rgb(240, 130, 60)}
+  .laranja23 {color: rgb(240, 130, 60)}
+ .laranjatamanho {background-color: rgb(240, 130, 60);
+ min-height:20px;
+ }
+.principal {
+	max-width:980px;
+}
+.topo{padding-top:10px;
+}
+.topo12{padding-top:50px;}
+.rowimagem {
+	background-image: url(http://placehold.it/1000x400);
+}
+.salao {
+	max-width:780px;
+}
+.linhaqualquer {
+	background-color:rgb(240, 130, 60);
+	min-height:8px;
+	width: :100%;
+}
+.espace14{
+	padding: 30px;
+
+}
+
+
+.esoacotext {
+	padding-right:  20px;
+}
+.butt {
+position: absolute; bottom: 40px; right: 50px;
+
+}
+.top {
+	padding-top:20px;
+	padding-bottom:20px;
+}
+.mapas{/*
+	background-image:url(img/localizacao.png);
+    background-repeat:no-repeat;*/
+   	}
+.margem2{padding-top:45px !important;}
+
+.thumbnail{
+  padding: 4px !important;
+  margin-bottom:5px;
+  color: #333333;
+}
+
+a.thumbnail:hover,
+a.thumbnail:focus {
+  border-color: #5CB85C !important;
+}
+	
+.cor{background-color:#D6D6D6;}	
+  	
+.jumbotron {
+  padding:inherit !important;
+  margin-bottom:inherit !important;
+  font-size: 21px;
+  font-weight: 200;
+  line-height: 2.1428571435;
+  color: inherit;
+  background-color: #eeeeee;
+  margin-bottom:30px !important;
+}	
+
+.posicao1{position:relative; z-index:1;}
+
+.posicao2{position:absolute; z-index:2;}
+
+
+.container .jumbotron {
+    padding-right: 0px !important;
+    padding-left: 0px !important;
+	padding-top: 4px;
+  }	
+      #map-canvas {
+  width:358px;
+  height:150px;
+}
+
+.circle {
+    width: 150px;
+    height: 150px;
+
+
+}
+.menuro{
+	background-image: url(../img/menuro.png); background-repeat: no-repeat;
+}
+.menumenu{
+	background-image: url(../img/menumenu.png); background-repeat: no-repeat;
+}
+.subir{
+	margin-top: -30px;
+}
+.buscar123{
+	margin-top: -30px;
+}
+.subirtwitter{
+	margin-top: -10px;
+}
+.descer{
+	margin-bottom: -50px;
+}
+.buscar{
+	top: 1000px;
+	bottom: 100px;
+}
+
+
+
+.ajustado{
+	padding: 0px;
+}
+.espaco123{
+	padding: 70px;
+}
+.box{
+	min-height: 350px;
+	min-width: 350px;
+	
+}
+.box2{
+	min-height: 400px;
+	
+}
+
+.imag{
+	position: absolute; bottom: 40px right:50px;
+}
+.espacel{
+	padding: 10px;
+}
+
+.espacomenuro{
+	padding-top:15px; 
+	padding-bottom:2px;
+}
+.rolagem {
+    width: 300px;
+   height: 150px;
+    overflow: auto;
+}
+
+.respon {display:block; min-height:auto; max-width:100%}
+
+.cor-menu {
+	background-color:rgb(1, 117, 139);
+	border:none;
+	width:100%; 
+}
+.li-verde {
+	border-top:#64A979 3px solid;
+}
+.li-amarelo {
+	border-top:#FFCD24 3px solid;
+}
+.li-azul {
+	border-top:#2870A2 3px solid;
+}
+.li-vermelho {
+	border-top:#CC181E 3px solid;
+}
+.li-rosa {
+	border-top:#E88B97 3px solid;
+}
+.li-branco {
+	border-top:#ffffff 3px solid;
+}
+
+.li-preto {
+	border-top: #000 3px solid;
+}
+.btnTopo {
+	display:block;
+	margin-top:-20px;
+	margin-bottom:15px;
+	width:45px;
+}
+.cor-verde {
+	background-color:#5CB85C;
+	min-height:20px;
+	max-width:100%;
+}
+.cor-cinza {
+	background-color:#DEDCDD;
+	max-width:100%;
+	border-top:#FFF 1px solid;
+	padding-top:3px;
+	padding-bottom:3px;
+	
+}
+.cor-rodape {
+	background-color: rgb(1, 117, 139);
+	max-width:100%;
+	border-top:#FFF 1px solid;
+	padding-top:3px;
+	padding-bottom:3px;
+.listas-fo {
+	margin-left:-40px;
+}
+.a {
+	max-width:100%;
+}
+
+
+
+
+
+/*  classes-links  */
+
+li .branco a:link {
+	color:#fff;
+	list-style:none;
+}
+li a:active {
+	color:#fff;
+}
+li a:hover {
+	color:#fff;
+}
+ul.lirodape {
+	padding-left:40px;
+}
+ul.lirodape li {
+	text-align:left;
+}
+ul.lirodape li a {
+	color:#000;
+	text-align:left;
+	float:none;
+	font-size:14px;
+}
+ul.none-border {
+	border:none;
+}
+ul.none-border li p {
+	color:#FFF;
+}
+
+
+.dropdown-menu > li > a:hover,
+.dropdown-menu > li > a:focus {
+  color: #ffffff;
+  text-decoration: none;
+  background-color: #d6d6d6 !important;
+}
+
+.media-heading {
+  margin: 0 0 5px;
+}
+
+

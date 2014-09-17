@@ -1,0 +1,510 @@
+<!DOCTYPE html>
+<!-- saved from url=(0068)http://linkca.desolhost.com/portalweb?juridica=false_7&fisica=true_7 -->
+<html lang="pt_BR"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta charset="utf-8">
+    	<title>LinkCariri - Internet é Isso!</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    
+    <meta property="fb:app_id" content="421260201259740">
+	<meta name="if:Facebook Comments On" content="1">
+
+    <!-- Le styles -->
+    <link href="http://linkca.desolhost.com/assets/css/bootstrap.css" rel="stylesheet">    
+    <link href="http://linkca.desolhost.com/assets/css/bootstrap-responsive.css" rel="stylesheet">
+    <link href="http://linkca.desolhost.com/custome-bootstrap.css" rel="stylesheet">
+    <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <!-- Fav and touch icons -->
+    <link rel="shortcut icon" href="http://linkca.desolhost.com/assets/ico/favicon.ico">
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://linkca.desolhost.com/assets/ico/114x114.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://linkca.desolhost.com/assets/ico/114x114.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://linkca.desolhost.com/assets/ico/72x72.png">
+    <link rel="apple-touch-icon-precomposed" href="http://linkca.desolhost.com/assets/ico/57x57.png">
+  <style type="text/css">.fb_hidden{position:absolute;top:-10000px;z-index:10001}
+.fb_invisible{display:none}
+.fb_reset{background:none;border:0;border-spacing:0;color:#000;cursor:auto;direction:ltr;font-family:"lucida grande", tahoma, verdana, arial, sans-serif;font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:1;margin:0;overflow:visible;padding:0;text-align:left;text-decoration:none;text-indent:0;text-shadow:none;text-transform:none;visibility:visible;white-space:normal;word-spacing:normal}
+.fb_reset > div{overflow:hidden}
+.fb_link img{border:none}
+.fb_dialog{background:rgba(82, 82, 82, .7);position:absolute;top:-10000px;z-index:10001}
+.fb_dialog_advanced{padding:10px;-moz-border-radius:8px;-webkit-border-radius:8px;border-radius:8px}
+.fb_dialog_content{background:#fff;color:#333}
+.fb_dialog_close_icon{background:url(http://static.ak.fbcdn.net/rsrc.php/v2/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 0 transparent;_background-image:url(http://static.ak.fbcdn.net/rsrc.php/v2/yL/r/s816eWC-2sl.gif);cursor:pointer;display:block;height:15px;position:absolute;right:18px;top:17px;width:15px;top:8px\9;right:7px\9}
+.fb_dialog_mobile .fb_dialog_close_icon{top:5px;left:5px;right:auto}
+.fb_dialog_padding{background-color:transparent;position:absolute;width:1px;z-index:-1}
+.fb_dialog_close_icon:hover{background:url(http://static.ak.fbcdn.net/rsrc.php/v2/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -15px transparent;_background-image:url(http://static.ak.fbcdn.net/rsrc.php/v2/yL/r/s816eWC-2sl.gif)}
+.fb_dialog_close_icon:active{background:url(http://static.ak.fbcdn.net/rsrc.php/v2/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -30px transparent;_background-image:url(http://static.ak.fbcdn.net/rsrc.php/v2/yL/r/s816eWC-2sl.gif)}
+.fb_dialog_loader{background-color:#f2f2f2;border:1px solid #606060;font-size:24px;padding:20px}
+.fb_dialog_top_left,
+.fb_dialog_top_right,
+.fb_dialog_bottom_left,
+.fb_dialog_bottom_right{height:10px;width:10px;overflow:hidden;position:absolute}
+.fb_dialog_top_left{background:url(http://static.ak.fbcdn.net/rsrc.php/v2/ye/r/8YeTNIlTZjm.png) no-repeat 0 0;left:-10px;top:-10px}
+.fb_dialog_top_right{background:url(http://static.ak.fbcdn.net/rsrc.php/v2/ye/r/8YeTNIlTZjm.png) no-repeat 0 -10px;right:-10px;top:-10px}
+.fb_dialog_bottom_left{background:url(http://static.ak.fbcdn.net/rsrc.php/v2/ye/r/8YeTNIlTZjm.png) no-repeat 0 -20px;bottom:-10px;left:-10px}
+.fb_dialog_bottom_right{background:url(http://static.ak.fbcdn.net/rsrc.php/v2/ye/r/8YeTNIlTZjm.png) no-repeat 0 -30px;right:-10px;bottom:-10px}
+.fb_dialog_vert_left,
+.fb_dialog_vert_right,
+.fb_dialog_horiz_top,
+.fb_dialog_horiz_bottom{position:absolute;background:#525252;filter:alpha(opacity=70);opacity:.7}
+.fb_dialog_vert_left,
+.fb_dialog_vert_right{width:10px;height:100%}
+.fb_dialog_vert_left{margin-left:-10px}
+.fb_dialog_vert_right{right:0;margin-right:-10px}
+.fb_dialog_horiz_top,
+.fb_dialog_horiz_bottom{width:100%;height:10px}
+.fb_dialog_horiz_top{margin-top:-10px}
+.fb_dialog_horiz_bottom{bottom:0;margin-bottom:-10px}
+.fb_dialog_iframe{line-height:0}
+.fb_dialog_content .dialog_title{background:#6d84b4;border:1px solid #3b5998;color:#fff;font-size:14px;font-weight:bold;margin:0}
+.fb_dialog_content .dialog_title > span{background:url(http://static.ak.fbcdn.net/rsrc.php/v2/yd/r/Cou7n-nqK52.gif)
+no-repeat 5px 50%;float:left;padding:5px 0 7px 26px}
+body.fb_hidden{-webkit-transform:none;height:100%;margin:0;overflow:visible;position:absolute;top:-10000px;left:0;width:100%}
+.fb_dialog.fb_dialog_mobile.loading{background:url(http://static.ak.fbcdn.net/rsrc.php/v2/ya/r/3rhSv5V8j3o.gif)
+white no-repeat 50% 50%;min-height:100%;min-width:100%;overflow:hidden;position:absolute;top:0;z-index:10001}
+.fb_dialog.fb_dialog_mobile.loading.centered{max-height:590px;min-height:590px;max-width:500px;min-width:500px}
+#fb-root #fb_dialog_ipad_overlay{background:rgba(0, 0, 0, .45);position:absolute;left:0;top:0;width:100%;min-height:100%;z-index:10000}
+#fb-root #fb_dialog_ipad_overlay.hidden{display:none}
+.fb_dialog.fb_dialog_mobile.loading iframe{visibility:hidden}
+.fb_dialog_content .dialog_header{-webkit-box-shadow:white 0 1px 1px -1px inset;background:-webkit-gradient(linear, 0 0, 0 100%, from(#738ABA), to(#2C4987));border-bottom:1px solid;border-color:#1d4088;color:#fff;font:14px Helvetica, sans-serif;font-weight:bold;text-overflow:ellipsis;text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0;vertical-align:middle;white-space:nowrap}
+.fb_dialog_content .dialog_header table{-webkit-font-smoothing:subpixel-antialiased;height:43px;width:100%
+}
+.fb_dialog_content .dialog_header td.header_left{font-size:12px;padding-left:5px;vertical-align:middle;width:60px
+}
+.fb_dialog_content .dialog_header td.header_right{font-size:12px;padding-right:5px;vertical-align:middle;width:60px
+}
+.fb_dialog_content .touchable_button{background:-webkit-gradient(linear, 0 0, 0 100%, from(#4966A6),
+color-stop(0.5, #355492), to(#2A4887));border:1px solid #29447e;-webkit-background-clip:padding-box;-webkit-border-radius:3px;-webkit-box-shadow:rgba(0, 0, 0, .117188) 0 1px 1px inset,
+rgba(255, 255, 255, .167969) 0 1px 0;display:inline-block;margin-top:3px;max-width:85px;line-height:18px;padding:4px 12px;position:relative}
+.fb_dialog_content .dialog_header .touchable_button input{border:none;background:none;color:#fff;font:12px Helvetica, sans-serif;font-weight:bold;margin:2px -12px;padding:2px 6px 3px 6px;text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0}
+.fb_dialog_content .dialog_header .header_center{color:#fff;font-size:16px;font-weight:bold;line-height:18px;text-align:center;vertical-align:middle}
+.fb_dialog_content .dialog_content{background:url(http://static.ak.fbcdn.net/rsrc.php/v2/y9/r/jKEcVPZFk-2.gif) no-repeat 50% 50%;border:1px solid #555;border-bottom:0;border-top:0;height:150px}
+.fb_dialog_content .dialog_footer{background:#f2f2f2;border:1px solid #555;border-top-color:#ccc;height:40px}
+#fb_dialog_loader_close{float:left}
+.fb_dialog.fb_dialog_mobile .fb_dialog_close_button{text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0}
+.fb_dialog.fb_dialog_mobile .fb_dialog_close_icon{visibility:hidden}
+.fb_iframe_widget{display:inline-block;position:relative}
+.fb_iframe_widget span{display:inline-block;position:relative;text-align:justify}
+.fb_iframe_widget iframe{position:absolute}
+.fb_iframe_widget_lift{z-index:1}
+.fb_hide_iframes iframe{position:relative;left:-10000px}
+.fb_iframe_widget_loader{position:relative;display:inline-block}
+.fb_iframe_widget_fluid{display:inline}
+.fb_iframe_widget_fluid span{width:100%}
+.fb_iframe_widget_loader iframe{min-height:32px;z-index:2;zoom:1}
+.fb_iframe_widget_loader .FB_Loader{background:url(http://static.ak.fbcdn.net/rsrc.php/v2/y9/r/jKEcVPZFk-2.gif) no-repeat;height:32px;width:32px;margin-left:-16px;position:absolute;left:50%;z-index:4}
+.fb_connect_bar_container div,
+.fb_connect_bar_container span,
+.fb_connect_bar_container a,
+.fb_connect_bar_container img,
+.fb_connect_bar_container strong{background:none;border-spacing:0;border:0;direction:ltr;font-style:normal;font-variant:normal;letter-spacing:normal;line-height:1;margin:0;overflow:visible;padding:0;text-align:left;text-decoration:none;text-indent:0;text-shadow:none;text-transform:none;visibility:visible;white-space:normal;word-spacing:normal;vertical-align:baseline}
+.fb_connect_bar_container{position:fixed;left:0 !important;right:0 !important;height:42px !important;padding:0 25px !important;margin:0 !important;vertical-align:middle !important;border-bottom:1px solid #333 !important;background:#3b5998 !important;z-index:99999999 !important;overflow:hidden !important}
+.fb_connect_bar_container_ie6{position:absolute;top:expression(document.compatMode=="CSS1Compat"? document.documentElement.scrollTop+"px":body.scrollTop+"px")}
+.fb_connect_bar{position:relative;margin:auto;height:100%;width:100%;padding:6px 0 0 0 !important;background:none;color:#fff !important;font-family:"lucida grande", tahoma, verdana, arial, sans-serif !important;font-size:13px !important;font-style:normal !important;font-variant:normal !important;font-weight:normal !important;letter-spacing:normal !important;line-height:1 !important;text-decoration:none !important;text-indent:0 !important;text-shadow:none !important;text-transform:none !important;white-space:normal !important;word-spacing:normal !important}
+.fb_connect_bar a:hover{color:#fff}
+.fb_connect_bar .fb_profile img{height:30px;width:30px;vertical-align:middle;margin:0 6px 5px 0}
+.fb_connect_bar div a,
+.fb_connect_bar span,
+.fb_connect_bar span a{color:#bac6da;font-size:11px;text-decoration:none}
+.fb_connect_bar .fb_buttons{float:right;margin-top:7px}
+.fb_edge_widget_with_comment{position:relative;*z-index:1000}
+.fb_edge_widget_with_comment span.fb_edge_comment_widget{position:absolute}
+.fb_edge_widget_with_comment span.fb_send_button_form_widget{z-index:1}
+.fb_edge_widget_with_comment span.fb_send_button_form_widget .FB_Loader{left:0;top:1px;margin-top:6px;margin-left:0;background-position:50% 50%;background-color:#fff;height:150px;width:394px;border:1px #666 solid;border-bottom:2px solid #283e6c;z-index:1}
+.fb_edge_widget_with_comment span.fb_send_button_form_widget.dark .FB_Loader{background-color:#000;border-bottom:2px solid #ccc}
+.fb_edge_widget_with_comment span.fb_send_button_form_widget.siderender
+.FB_Loader{margin-top:0}
+.fbpluginrecommendationsbarleft,
+.fbpluginrecommendationsbarright{position:fixed !important;bottom:0;z-index:999}
+.fbpluginrecommendationsbarleft{left:10px}
+.fbpluginrecommendationsbarright{right:10px}</style></head>
+
+  <body data-twttr-rendered="true">
+  <div id="fb-root" class=" fb_reset"><div style="position: absolute; top: -10000px; height: 0px; width: 0px;"><div><iframe name="fb_xdm_frame_http" frameborder="0" allowtransparency="true" scrolling="no" id="fb_xdm_frame_http" aria-hidden="true" title="Facebook Cross Domain Communication Frame" tab-index="-1" src="./sombra_files/xd_arbiter.htm" style="border: none;"></iframe><iframe name="fb_xdm_frame_https" frameborder="0" allowtransparency="true" scrolling="no" id="fb_xdm_frame_https" aria-hidden="true" title="Facebook Cross Domain Communication Frame" tab-index="-1" src="./sombra_files/xd_arbiter(1).htm" style="border: none;"></iframe></div></div><div style="position: absolute; top: -10000px; height: 0px; width: 0px;"><div></div></div></div>
+  <script id="twitter-wjs" src="./sombra_files/widgets.js"></script><script src="./sombra_files/all.js"></script>
+  <div class="row-fluid">
+      <div class="container">
+      	<div class="row-fluid show-grid">
+              <div class="span6">
+              	<ul class="nav nav-tabs red">
+              
+              		<li class="active"><a href="http://linkca.desolhost.com/pessoa?juridica=false&fisica=true" title="Menu Para Você">Residencial</a></li>
+              		<li><a href="http://linkca.desolhost.com/pessoa?juridica=true&fisica=false" title="Menu Para Empresas">Empresarial</a></li>
+          		</ul>
+              </div>
+              <div class="span6 custom6">
+              	
+                              	<ul class="nav nav-pills">
+                	<li class="active"><a href="http://linkca.desolhost.com/regional.html" title="Clique aqui para Alterar a localidade">Alterar localidade</a></li>
+                	<li><a href="http://linkca.desolhost.com/portalweb?juridica=false_7&fisica=true_7#" title="Sua localidade atual: Juazeiro do Norte, Novo Juazeiro"><span>Juazeiro do Norte, Novo Juazeiro</span></a></li>              		              		
+            	</ul>
+              </div>
+            </div>
+      </div>
+  </div>
+	
+    <!-- navbar
+    ================================================== -->
+   <div class="navbar">
+              <div class="navbar-inner">
+                <div class="container">
+                  <a class="btn btn-navbar" data-toggle="collapse" data-target=".navbar-responsive-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                  </a>
+                 <a class="brand" href="http://linkca.desolhost.com/" title="Ir para a página inicial."><img src="./sombra_files/logo.png" alt="Ir para a página inicial."></a>
+                  <div class="nav-collapse collapse navbar-responsive-collapse btop">
+                    <ul class="nav">
+                      <li><a href="http://linkca.desolhost.com/sobre-a-linkcariri.html" title="Ir para Quem somos">Quem somos</a></li>
+                      <li class="divider-vertical"></li>
+                      <li><a href="http://linkca.desolhost.com/planos.htm" title="Ir para Planos">Planos</a></li>
+                      <li class="divider-vertical"></li>
+                      <li><a href="http://linkca.desolhost.com/banda-larga.htm" title="Ir para Banda Larga">Banda Larga</a></li>
+                      <li class="divider-vertical"></li>
+                      <li><a href="http://linkca.desolhost.com/noticias.htm" title="Ir para Notcícias">Notícias</a></li>
+                      <li class="divider-vertical"></li>
+                      <li><a href="http://linkca.desolhost.com/contato.html" title="Ir para Contato">Contato</a></li>
+                    </ul>
+                    
+                    <div class="pull-right">
+                     <div class="btn-group">
+                     <!--data-toggle="dropdown"-->
+                <a href="http://central.infotechnet.com.br/index.php?section=historico" target="_blank" class="btn btn-primary dropdown-toggle">Acesse sua área de cliente <span class="caret"></span></a>
+                <!--<ul class="dropdown-menu">-->
+                 <!-- <li><a href="#">Ação</a></li>-->
+                 <!-- <li><a href="#">Outra ação</a></li>-->
+                 <!-- <li><a href="#">Algo a mais aqui</a></li>-->
+                  <!--<li class="divider"></li>-->
+                  <!--<li><a href="#">Link separador</a></li>-->
+               <!-- </ul>-->
+              </div>
+                    </div>
+                  </div><!-- /.nav-collapse -->
+                </div>
+              </div><!-- /navbar-inner -->
+            </div><!-- /.navbar -->
+   
+    <!-- .sombra
+    ================================================== -->
+   <div class="row sombra">
+   </div><!-- /.sombra -->
+   
+    
+ <!-- Slideshow 4 -->
+    <div class="callbacks_container">
+      <ul class="rslides" id="slider4">
+      	<li>
+          <img src="./sombra_files/banner_1.jpg" alt="">
+          
+        </li>
+        <li>
+          <a href="http://linkca.desolhost.com/banda-larga.htm" title="Ir para Banda Larga"><img src="./sombra_files/banner_2.jpg" alt=""></a>
+          
+        </li>
+        <li>
+          <a href="http://linkca.desolhost.com/contato.html" title="Ir para Contato"><img src="./sombra_files/banner_3.jpg" alt=""></a>
+          
+        </li>
+        <li>
+          <a href="http://linkca.desolhost.com/planos.htm" title="Ir para Planos"><img src="./sombra_files/banner_4.jpg" alt=""></a>
+        </li>
+      </ul>
+    </div>
+    
+    
+    <div id="conteudo_principal" class="container-fluid">
+  		<div class="row-fluid">    		
+    		<div class="span9 p-top">
+          	<div class="media">
+            	               <a class="pull-left" href="http://linkca.desolhost.com/sobre-a-linkcariri.html" title="Ir para Sobre a LinkCariri">
+                <img class="media-object" src="./sombra_files/sobre_a_link.jpg">
+              </a>
+              <div class="media-body">
+                <h4 class="media-heading">Sobre a LinkCariri</h4>
+                <p>Em 2004 a empresa Infotechnet iniciou suas atividades de Provedor de Internet em Milagres e Mauriti - CE, e a Link Cariri, na mesma época iniciou suas atividades em Brejo Santo inicialmente com o nome de Brejo Santo.com. Logo começaram um processo de expansão.</p>
+                <p class="align-right"><a href="http://linkca.desolhost.com/sobre-a-linkcariri.html" class="btn" title="Ir para Sobre a LinkCariri"><i class="icon-plus"></i> Informações</a></p>
+              </div>
+            </div>
+            
+            <div class="row sombra2">
+   			</div>
+            
+           
+            	<div class="span12" style="margin-left:0px;">
+                    <h1 class="red-22-bold">Conheça alguns motivos para escolher a Link Cariri.</h1>
+                    <p class="gay-12-bold">Tudo em um único pacote, como você nunca viu.</p>
+                    
+                    <div class="row-fluid">
+                        <ul class="thumbnails red">
+                          <li class="span4">
+                           
+                            <div class="thumbnail no-border">
+                              <img src="./sombra_files/bg_circle_blue-1.png" class="img-circle" alt="">
+                              <div class="caption">
+                                <h3>Suporte</h3>
+                                <p>Nossos clientes merecem o melhor que há em suporte técnico. Por isso todo nosso pessoal tem recebido treinamento constante para seu aperfeiçoamento profissional...</p>
+                                <p class="acao"><a href="http://linkca.desolhost.com/contato.html" class="btn" title="Ir para Suporte e Contato"><i class="icon-plus"></i> Informações</a></p>
+                              </div>
+                            </div>
+                            
+                          </li>
+                          <li class="span4">
+                            <div class="thumbnail no-border">
+                              <img src="./sombra_files/bg_circle_blue-2.png" class="img-circle" alt="">
+                              <div class="caption">
+                                <h3>Banda Larga</h3>
+                                <p>Quando a internet dependia exclusivamente de conexão discada a velocidade máxima conseguida era de 56k. Tudo que supera essa velocidade conseguida pelos modens da telefonia fixa é considerado banda larga...</p>
+                                <p class="acao"><a href="http://linkca.desolhost.com/banda-larga.htm" class="btn" title="Ir para Banda Larga"><i class="icon-plus"></i> Informações</a></p>
+                              </div>
+                            </div>
+                          </li>
+                          <li class="span4">
+                            <div class="thumbnail no-border">
+                              <img src="./sombra_files/bg_circle_blue-3.png" class="img-circle" alt="">
+                              <div class="caption">
+                                <h3>Planos ilimitados</h3>
+                                <p>A internet pode ser comercializada com planos de franquia limitadas ou Ilimitadas.</p>
+                                <p>Normalmente as franquias são medidas baseado no tráfego de dados em Gigas...</p>
+                               
+                                <p class="acao"><a href="http://linkca.desolhost.com/planos.htm" class="btn" title="Ir para Planos"><i class="icon-plus"></i> Informações</a></p>
+                              </div>
+                            </div>
+                          </li>
+                        </ul>
+          		</div>
+                </div>
+        </div>
+        
+        <div class="span3">
+     		<div class="span12 white-panel">
+            	<div class="titulo"><div class="txt-titulo">Acesso rápido Minha Conta</div> <div class="img-logo"><img src="./sombra_files/bl_link.png"></div></div>
+                <div class="titulo2"></div>
+                	<div class="span12 padding" style="margin-left:0;">
+                   	  <div class="span12" style=" margin-bottom:6px;">
+                            <button type="button" class="btn span6"><a href="http://central.infotechnet.com.br/index.php?section=segundavia" target="_blank"><img src="./sombra_files/ico-acesso-2-via.png"><span> 2ª Via<br> de Conta </span></a></button>
+                            <button type="button" class="btn span6"><a href="http://central.infotechnet.com.br/index.php?section=transferencia" target="_blank"><img src="./sombra_files/ico-alterar-dados-cadastrais.png"><span> Alterar<br>
+         Endereço </span></a></button>
+                        </div>
+                        <div class="span12" style="margin-left:0;">
+                            <button type="button" class="btn span6"><a href="http://central.infotechnet.com.br/index.php?section=historico" target="_blank"><img src="./sombra_files/ico-acesso-controle-conta.png"><span> Extratos<br> Financeiros </span></a></button>
+                            <button type="button" class="btn span6"><a href="http://central.infotechnet.com.br/index.php?section=historico" target="_blank"><img src="./sombra_files/ico-testar-conexao.png"><span> Teste de<br>  Conexão </span></a></button>
+                        </div>
+                         <a data-toggle="modal" href="http://linkca.desolhost.com/portalweb?juridica=false_7&fisica=true_7#myModal" class="btn btn-info span12" target="_blank" style="margin-left:0px; margin-top:6px;">Solicite os dados de acesso a nossa central.</a>
+                        
+                    </div>
+                
+            </div>
+            
+          <div class="span12 white-panel no-border" style="margin-left:0;">
+            	<div class="titulo"><div class="txt-titulo">Dúvidas sobre a Link Cariri?</div> <div class="img-logo"><img src="./sombra_files/bl_link.png"></div></div>
+                <div class="titulo2"></div>
+                	<div class="span12 padding" style="margin-left:0;">
+                   	  <ul class="unstyled">
+                        						<li><a href="http://linkca.desolhost.com/resposta/faq/2-Como-mudar-a-velocidade-de-minha-conexo.htm#faq2"><i class="icon-chevron-right"></i> Como mudar a velocidade de minha conexão?</a></li>
+                       						<li><a href="http://linkca.desolhost.com/resposta/faq/1-Como-pagar-por-debito-automtico-.htm#faq1"><i class="icon-chevron-right"></i> Como pagar por debito automático ?</a></li>
+                     					  </ul>
+                  </div>
+                
+            </div>
+   		</div>
+        <div class="clear"></div>
+        <div class="row-fluid sombrac">
+   		</div>
+        
+        <div class="row-fluid linha3">
+			           <div class="span3">
+            <a href="http://linkca.desolhost.com/ler/noticia/7-Claro-Embratel-e-TIM-so-multadas-pelo-Procon-do-Maranho.htm" class="thumbnail">
+              <img src="./sombra_files/conta-de-celular-1351107235866_300x200.jpg">
+              <h4>Claro, Embratel e TIM são multadas pelo Procon do Maranhão</h4>
+              
+            </a>
+          </div>
+                     <div class="span3">
+            <a href="http://linkca.desolhost.com/ler/noticia/3-Google-completa-15-anos.htm" class="thumbnail">
+              <img src="./sombra_files/google_birthday_15.jpeg">
+              <h4>Google completa 15 anos</h4>
+              
+            </a>
+          </div>
+                     <div class="span3">
+            <a href="http://linkca.desolhost.com/ler/noticia/4-iPad-vendido-no-Brasil--2-mais-caro-do-mundo-aponta-pesquisa.htm" class="thumbnail">
+              <img src="./sombra_files/DSC_2058.jpg">
+              <h4>iPad vendido no Brasil é 2º mais caro do mundo, aponta pesquisa</h4>
+              
+            </a>
+          </div>
+                     <div class="span3">
+            <a href="http://linkca.desolhost.com/ler/noticia/5-Anatel-estuda-novas-faixas-de-frequncia-para-internet-banda-larga.htm" class="thumbnail">
+              <img src="./sombra_files/Anatel.jpg">
+              <h4>Anatel estuda novas faixas de frequência para internet banda larga</h4>
+              
+            </a>
+          </div>
+          		</div>
+        <p class="align-right"><a href="http://linkca.desolhost.com/noticias.htm" title="Ir para todas as notícias." class="btn"><i class="icon-plus"></i> Notícias</a></p>
+        
+         <div class="row-fluid sombrac">
+   		</div>
+        
+        <div class="row-fluid linha4">
+        	<h1><span>Link Cariri na Web</span></h1>
+              <div class="span5">
+              <iframe src="./sombra_files/likebox.htm" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:100%; height:250px;" allowtransparency="true"></iframe>
+              </div>
+              <div class="span4" data-twttr-id="twttr-sandbox-0">
+              	 <iframe id="twitter-widget-0" scrolling="no" frameborder="0" allowtransparency="true" class="twitter-timeline twitter-timeline-rendered" title="Twitter Timeline Widget" style="border: none; max-width: 100%; min-width: 180px;" width="310" height="250"></iframe>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+              </div>
+              <div class="span3">
+              	<div id="newsletter" class="titulo">
+              	  <div class="txt-titulo">Novidades da Link Cariri</div> <div class="img-logo"><img src="./sombra_files/bl_link.png"></div></div>
+                <div class="titulo2"></div>
+                <div class="content">
+                	<p>Assine nossa newsletter e receba as novidades sobre promoção e planos  na sua caixa de entrada. </p>
+                                      <form method="post" action="http://linkca.desolhost.com/app/acao_newsletter.php" class="form-vertical no-bottom">
+                      <div class="control-group">
+                        <div class="controls">
+                          <input name="email" type="text" class="input-block-level" id="inputEmail" placeholder="Email">
+                          <input name="retorno" type="hidden" id="retorno" value="portalweb">
+                        </div>
+                      </div>
+                      <div class="control-group no-bottom">
+                        <div class="controls">
+                          <button type="submit" class="btn btn-primary pull-right">Cadastrar</button>
+                          <div class="clear"></div>
+                        </div>
+                      </div>
+				</form>
+                </div>
+              </div>              
+        </div>
+        
+         
+   
+      </div>
+    </div>
+    
+    
+    <!-- Modal -->
+<div id="myModal" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  <div class="modal-header">
+    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+    <h3 id="myModalLabel">Atendimento via chat</h3>
+  </div>
+  <div class="modal-body">
+    <p></p><div id="craftysyntax_1"><table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td valign="top" align="center"><a name="chatRef" href="javascript:openLiveHelp(1)" onclick="javascript:csTimeout_1=0;"><img name="csIcon" src="./sombra_files/image.php" alt="Live Help" border="0"></a></td></tr><tr><td valign="top" align="center"><a href="http://www.craftysyntax.com/?utm_source=poweredby&utm_campaign=poweredby" nam"="" alt="Crafty Syntax Live Help" target="_blank"><img src="./sombra_files/image(1).php" border="0" style="margin-top:4px;"></a></td></tr></tbody></table><div id="layerinvite_1" style="position:absolute; z-index:99992; visibility:hidden; display:none; top:-400px; left:-400px; width:400px; height:400px;"></div></div>
+    
+  
+    	<h3>ou ligue 0800 980 9988</h3>
+
+    <p></p>
+  </div>
+  <div class="modal-footer">
+    <button class="btn" data-dismiss="modal" aria-hidden="true">Fechar</button>
+  </div>
+</div>   
+   <div class="container-fluid">
+   
+   <div class="row-fluid sombrac">
+   		</div>
+        
+        <div class="row-fluid linha5">
+        	<div class="span4"><img src="./sombra_files/logo-rodape.png"></div>
+            
+            	 <ul class="unstyled pull-left">
+                 
+
+
+
+
+  						<li><a href="http://linkca.desolhost.com/sobre-a-linkcariri.html" title="Ir para Quem somos"><i class="icon-chevron-right"></i> Sobre a LinkCariri</a></li>
+                        <li><a href="http://linkca.desolhost.com/banda-larga.htm" title="Ir para Banda larga"><i class="icon-chevron-right"></i> Banda larga</a></li>
+                        <li><a href="http://linkca.desolhost.com/planos.htm" title="Ir para Nossos planos"><i class="icon-chevron-right"></i> Nossos planos</a></li>
+                        <li><a href="http://linkca.desolhost.com/noticias.htm" title="Ir para Notícias"><i class="icon-chevron-right"></i> Notícias</a></li>
+                        <li><a href="http://central.infotechnet.com.br/index.php?section=historico" title="Ir para Central de atendimento" target="_blank"><i class="icon-chevron-right"></i> Central de atendimento</a></li>
+					  </ul>
+           
+           
+            	<ul class="unstyled pull-left">
+                
+
+ 
+
+
+  						<li><a href="http://linkca.desolhost.com/contato.html" title="Ir para Atendimento Online"><i class="icon-chevron-right"></i> Atendimento Online</a></li>
+                        <li><a href="http://simet.nic.br/" target="_blank" title="Simet - Teste de velocidade"><i class="icon-chevron-right"></i> Teste sua conexão</a></li>
+                        <li><a href="http://linkca.desolhost.com/portalweb?juridica=false_7&fisica=true_7#"><i class="icon-chevron-right"></i> Solicite acesso à central</a></li>
+                        <li><a href="http://linkca.desolhost.com/pessoa?juridica=true&fisica=false" title="Menu Para Empresas"><i class="icon-chevron-right"></i> Planos para empresas</a></li>
+                          <li><a href="http://linkca.desolhost.com/pessoa?juridica=true&fisica=false" title="Menu Para Empresas"><i class="icon-chevron-right"></i> Planos para provedores</a></li>
+					  </ul>
+            
+            
+            	<ul class="unstyled pull-left">
+                
+
+
+ 
+
+
+  						<li><a href="http://linkca.desolhost.com/resposta/faq/" title="Ir para Dúvidas frequentes - FAQ"><i class="icon-chevron-right"></i> Dúvidas frequentes</a></li>
+                        <li><a href="http://linkca.desolhost.com/contato.html" title="Ir para Página de Contato"><i class="icon-chevron-right"></i> Solicitar visita técnica</a></li>
+                        <li><a href="http://central.infotechnet.com.br/index.php?section=historico" target="_blank"><i class="icon-chevron-right"></i> Extratos financeiros</a></li>
+                        <li><a href="http://linkca.desolhost.com/regional.html" title="Clique aqui para Alterar sua localidade"><i class="icon-chevron-right"></i> Alterar sua localidade</a></li>
+					  </ul>
+            
+        </div>
+    </div>
+	<footer class="footer">
+      <div class="container">
+        <div class="span4 pull-left">2013 - LINK CARIRI- Todos os direitos reservados</div>
+        <div class="span4 pull-right">Desenvolvido por <a href="http://www.cleverit.com.br/" title="Desenvolvido por Clever Agência Web" target="_blank"><img src="./sombra_files/logo-clever.png"></a></div>
+      </div>
+    </footer>
+
+    <!-- Le javascript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="./sombra_files/jquery.js"></script>
+    <script src="./sombra_files/bootstrap-transition.js"></script>
+    <script src="./sombra_files/bootstrap-alert.js"></script>
+    <script src="./sombra_files/bootstrap-modal.js"></script>
+    <script src="./sombra_files/bootstrap-dropdown.js"></script>
+    <script src="./sombra_files/bootstrap-scrollspy.js"></script>
+    <script src="./sombra_files/bootstrap-tab.js"></script>
+    <script src="./sombra_files/bootstrap-tooltip.js"></script>
+    <script src="./sombra_files/bootstrap-popover.js"></script>
+    <script src="./sombra_files/bootstrap-button.js"></script>
+    <script src="./sombra_files/bootstrap-collapse.js"></script>
+    <script src="./sombra_files/responsiveslides.min.js"></script>
+    <script src="./sombra_files/bootstrap-typeahead.js"></script>
+    <script src="./sombra_files/scrollTop.js"></script>
+            
+    <script language="JavaScript">
+		var copytoclip=1
+		function HighlightAll(theField) {
+		var tempval=eval("document."+theField)
+		tempval.focus()
+		tempval.select()
+		 if (document.all&&copytoclip==1){
+		  therange=tempval.createTextRange()
+		  therange.execCommand("Copy")
+		  window.status="Conteúdo selecionado e copiado para a área de transferência!"
+		  setTimeout("window.status=''",2400);
+		  }
+		}
+		 
+		function highlight(field) {
+			   field.focus();
+			   field.select();
+		}
+		 
+		function goToURL() { window.location = "javascript:HighlightAll('forms[0].select')"; }
+	</script>
+
+  
+<iframe id="rufous-sandbox" scrolling="no" frameborder="0" allowtransparency="true" style="display: none;"></iframe><div id="topcontrol" title="Voltar ao topo" style="position: fixed; bottom: 5px; right: 5px; opacity: 0; cursor: pointer;"><img src="./sombra_files/bt-scroll.png"></div></body></html>

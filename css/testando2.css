@@ -1,0 +1,16 @@
+
+/*Arquivo*/
+
+.imag-circle { height: 140px; width: 140px; }
+
+.just { text-align: justify ;}
+
+.alinar { vertical-align: middle;}
+
+.fixed { position: absolute; z-index: 9px;}
+
+.borcircle { border-radius: 10px;}
+
+.espace { margin-top: 16px;}
+
+.tracinho {background-color: rgb();}
